@@ -1,0 +1,24 @@
+.name {
+    width: 100px;
+    height: 100px;
+}
+.img {
+    width: 150px;
+    height: 150px;
+}
+.pers {
+    width: 300px;
+    height: 250px;
+}
+.text {
+    font-size: 20px;
+}.text2 {
+    font-size: 18px;
+}
+.name2 {
+    font-size: 25px;
+}
+.img {
+    width: 700px;
+    height: 800px;
+}
